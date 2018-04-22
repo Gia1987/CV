@@ -1,8 +1,8 @@
-## Giacomo NInniri
+## Giacomo Ninniri
 
-[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [HOBBIES](#hobbies)
+[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education)
 
-I m a student of Makers Academy. I have learned Ruby and JavaScript build simple program with those languages. I would ideally love to work as a junior web developer in an environment which encourages me to think for myself and encourages my proffesional development.
+I m a Full Stack Software Developer in training at Makers Academy. I have learned Ruby and JavaScript build simple program with those languages. I would ideally love to work as a junior web developer in an environment which encourages me to think for myself and encourages my professional development.
 
 ## Skills
 
@@ -27,14 +27,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (January 2018 to  May 2018)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Pair programming
+- Independent learning and problem-solving
+- Object-Orientated Design
+- Ruby Gems
+- Ruby, Rails, Sinatra
+- JavaScript, Node.js, jQuery, AJAX
+- Agile methodologies,TDD, BDD
+- Testing with Rspec, Capybara, Jasmine
+- Version control with Git and Github
+- PostgreSQL, mongoDB
+- HTML5, CSS3, SCSS, Bootstrap
+- Twilio
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**United Response** (June 2015 to November 2017)    
+*Support Worker*
+
+-Checking residents’ needs and progress
+-Providing physical care, which could include bathing, toileting, dressing and feeding
+-Providing one-to-one counselling or group therapy sessions
+-Teaching daily living skills like budgeting, shopping and claiming benefits
+-Providing leisure and creative activities in a safe and supportive setting
+-Helping residents to deal with problems and become independent
+-Talking with residents' families and arranging family and home visits
