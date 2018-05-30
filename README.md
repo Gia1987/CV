@@ -3,7 +3,7 @@
 
 [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [ NETWORK](#network)
 
-I m a Full Stack Software Developer in training at Makers Academy. I have learned Ruby and JavaScript build simple program with those languages. Works well alone as well as being an excellent team player. Good logical approach to problem solving, happy to help others if they ask for it.
+I m a Full Stack Software Developer in training at Makers Academy. I have learned Ruby and JavaScript and how to build programs with those languages. I m able to work well alone as well as being an excellent team player. Good logical approach to problem solving, happy to help others if they ask for it.
 
 ## Projects
 
@@ -18,21 +18,14 @@ I m a Full Stack Software Developer in training at Makers Academy. I have learne
 ## Skills
 
 #### Problem Solving
-
-   During AceBook project I had chances to practice my problem solving.    
+  While working on the Acebook project, my team experienced some version control issues relating to database migration. Thanks to research ability, I managed to solve these issues and also share the solution to all team members.      
 
 #### Fast Learner
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+  Several weeks at the coding bootcamp, Makers Academy tests this skill constantly whether it'd be a new framework or language. Expecially I remember when I built Thermostat in JavaScript in less than three days, I realised how much I have learned until that moment.
 
 #### Working under Pressure
   Working as support worker often I had to deal with challenging or confrontational behavior and stressful situations. In these situations, I was  able to stay calm and handle the pressure easily.
-
+  At Makers I experienced, expecially during team projects, how importat is to keep calm and concentration despite the deadlines to produce a good quality of code.
 ## Education
 
 #### Makers Academy (January 2018 to  May 2018)
@@ -53,6 +46,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### I.P.S.I.A, Italy (September 2002 to June 2007)
 - Hight School, Electrical and Electronics Engineering, Diploma
+
 ## Experience
 
 **United Response** London (June 2015 to November 2017)    
@@ -66,8 +60,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Helping residents to deal with problems and become independent
 - Talking with residents' families and arranging family and home visits
 
-**ASARA Trasporti** Olbia, Italy (April 2013, October 2014)
-*Profetional Driver*
+**ASARA Trasporti** Olbia, Italy (April 2013, October 2014)       
+*Professional Driver*
 - Transported passengers & employees to and from terminals.
 - Loaded and unloaded luggage.
 - Provided customer service to ensure customers' safety and satisfaction.
@@ -77,6 +71,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 <p align='center'>
   <a href="https://www.linkedin.com/in/giacomo-ninniri-3b8699150/">
   <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
-
   <a href="https://medium.com/@giacomo.n27">
   <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a></p>
