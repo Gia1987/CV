@@ -1,7 +1,7 @@
 ## Giacomo Ninniri
 [giacomo.n27@gmail.com](mailto:giacomo.n27@gmail.com)
 
-[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [ NETWORK](#network)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [ Network](#network)
 
 I m a Full Stack Software Developer in training at Makers Academy. I have learned Ruby and JavaScript and how to build programs with those languages. I m able to work well alone as well as being an excellent team player. Good logical approach to problem solving, happy to help others if they ask for it.
 
@@ -9,10 +9,10 @@ I m a Full Stack Software Developer in training at Makers Academy. I have learne
 
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
-| 1. RSP game ([Github](https://github.com/Gia1987/RPS-Game.git)) | This is a simple app that allows user to play the famous Rock, Paper and Scissors game. |ruby, Sinatra, HTML, CSS | Rspec, Capybara, simplecov |
+| 1. RSP game ([Github](https://github.com/Gia1987/RPS-Game.git) ([Heroku](https://boiling-wildwood-74884.herokuapp.com/)) | This is a simple app that allows user to play the famous Rock, Paper and Scissors game. |Ruby, Sinatra, HTML, CSS, Heroku | Rspec, Capybara, simplecov |
 | 2. Thermostat ([Github](https://github.com/Gia1987/JS-Thermostat.git))|This simple web app allows a user to set the temperature on a digital thermostat week. The user is also able to access current weather data for any location. | Javascript, HTML, CSS, NodeJS, jQuery, APIs (Open Weather Map API) | Jasmine|
 | 3. Bank simulator ([Github](https://github.com/Gia1987/Bank-tech-test.git)) | This program is going to simulate a Bank with its routine's process. | JavaScript | Jasmine |
-| 4. AceBook ([Github](https://github.com/Gia1987/acebook-Underdogs.git))| Team composed by 4 developers who have build a basis Social network web app that allows user to post messages and comments, Like and Unlike post. | Ruby, Rails, HTML, CSS, Heroku, PostgreSQL, Selenium-Webdriver | RSpec, Capybara, simplecov |
+| 4. AceBook ([Github](https://github.com/Gia1987/acebook-Underdogs.git)) ([Heroku](https://arcane-woodland-75224.herokuapp.com/)) | Team composed by 4 developers who have build a basis Social network web app that allows user to post messages and comments, Like and Unlike post. | Ruby, Rails, HTML, CSS, Heroku, PostgreSQL, Selenium-Webdriver | RSpec, Capybara, simplecov |
 
 
 ## Skills
@@ -28,7 +28,7 @@ I m a Full Stack Software Developer in training at Makers Academy. I have learne
   At Makers I experienced, expecially during team projects, how importat is to keep calm and concentration despite the deadlines to produce a good quality of code.
 ## Education
 
-#### Makers Academy (January 2018 to  May 2018)
+#### Makers Academy (Jan 2018 to  May 2018)
 
 - Pair programming
 - Independent learning and problem-solving
@@ -38,18 +38,18 @@ I m a Full Stack Software Developer in training at Makers Academy. I have learne
 - Agile methodologies,TDD, BDD
 - Testing with Rspec, Capybara, Jasmine
 - Version control with Git and Github
-- PostgreSQL, mongoDB
+- PostgreSQL, mongoDB, Heroku
 - HTML5, CSS3, SCSS, Bootstrap
 
-#### Pontificia Facolta Teologiaca Della Sardegna, Italy (October 2009 to  October 2012)
+#### Pontificia Facolta Teologiaca Della Sardegna, Italy (Oct 2009 to  Oct 2012)
 - Theology/Theological Studies, Diploma
 
-#### I.P.S.I.A, Italy (September 2002 to June 2007)
+#### I.P.S.I.A, Italy (Sept 2002 to Jun 2007)
 - Hight School, Electrical and Electronics Engineering, Diploma
 
 ## Experience
 
-**United Response** London (June 2015 to November 2017)    
+**United Response** London (Jun 2015 to Nov 2017)    
 *Support Worker*
 
 - Checking residents’ needs and progress
@@ -60,12 +60,16 @@ I m a Full Stack Software Developer in training at Makers Academy. I have learne
 - Helping residents to deal with problems and become independent
 - Talking with residents' families and arranging family and home visits
 
-**ASARA Trasporti** Olbia, Italy (April 2013, October 2014)       
+**ASARA Trasporti** Olbia, Italy (Apr 2013, Oct 2014)       
 *Professional Driver*
 - Transported passengers & employees to and from terminals.
 - Loaded and unloaded luggage.
 - Provided customer service to ensure customers' safety and satisfaction.
 - Conducted daily bus inspection.
+
+**O.F.T.A.L** Macomer, Italy (Jan 2009, Oct 2012)       
+*Voluntary*
+- Transport of sick people to Lourdes (piligrimes)
 
 ## Network
 <p align='center'>
