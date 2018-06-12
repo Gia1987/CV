@@ -3,16 +3,18 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [ Network](#network)
 
- I m a Full Stack Software Developer in training at Makers Academy. I have learned Ruby and JavaScript and how to build programs with those languages. I m able to work well alone as well as being an excellent team player. Good logical approach to problem solving, happy to help others if they ask for it.
+I think that technology brought a significant change to people’s lives and I want to give my contribute to carry on with this, improving and simplifying the quality of the society.
+Working as a Developer would allow me to use my skills which I have been trained for and the talent I was born with and land them to the society. Indeed in my previous job as a Support Worker  I was able to exploit just partially the skills, I think I have.
+I'm a Full Stack Software Developer trained by Makers Academy. I have learned Ruby and JavaScript and how to build programs with those languages. I'm able to work well alone as well as being an excellent team player. Good logical approach to problem solving, happy to help others if they ask for it.
 
 ## Projects
 
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
 | 1. RSP game ([Github](https://github.com/Gia1987/RPS-Game.git)) ([Heroku](https://boiling-wildwood-74884.herokuapp.com/)) | This is a simple app that allows user to play the famous Rock, Paper and Scissors game. |Ruby, Sinatra, HTML, CSS, Heroku | Rspec, Capybara, simplecov |
-| 2. Thermostat ([Github](https://github.com/Gia1987/JS-Thermostat.git))|This simple web app allows a user to set the temperature on a digital thermostat week. The user is also able to access current weather data for any location. | Javascript, HTML, CSS, NodeJS, jQuery, APIs (Open Weather Map API) | Jasmine|
+| 2. Thermostat ([Github](https://github.com/Gia1987/JS-Thermostat.git))|This simple web app allows a user to set the temperature on a digital thermostat. The user is also able to access current weather data for any location. | Javascript, HTML, CSS, NodeJS, jQuery, APIs (Open Weather Map API) | Jasmine|
 | 3. Bank simulator ([Github](https://github.com/Gia1987/Bank-tech-test.git)) | This program is going to simulate a Bank with its routine's process. | JavaScript | Jasmine |
-| 4. AceBook ([Github](https://github.com/Gia1987/acebook-Underdogs.git)) ([Heroku](https://arcane-woodland-75224.herokuapp.com/)) | Team composed by 4 developers who have build a basis Social network web app that allows user to post messages and comments, Like and Unlike post. | Ruby, Rails, HTML, CSS, Heroku, PostgreSQL, Selenium-Webdriver | RSpec, Capybara, simplecov |
+| 4. AceBook ([Github](https://github.com/Gia1987/acebook-Underdogs.git)) ([Heroku](https://arcane-woodland-75224.herokuapp.com/)) | Team composed by 4 developers who have build a basis Social network web app that allows user to login/logout,  post messages and comments, Like and Unlike post. | Ruby, Rails, HTML, CSS, Heroku, PostgreSQL, Selenium-Webdriver | RSpec, Capybara, simplecov |
 
 
 ## Skills
@@ -34,7 +36,7 @@
 - Object-Orientated Design
 - Ruby, Rails, Sinatra
 - JavaScript
-- Agile methodologies, TDD, BDD
+- Agile methodologies, TDD
 - Testing with Rspec, Capybara, Jasmine
 - Version control with Git and Github
 - PostgreSQL, Heroku
