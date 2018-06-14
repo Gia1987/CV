@@ -5,7 +5,7 @@
 
 I think that technology brought a significant change to people’s lives and I want to give my contribute to carry on with this, improving and simplifying the quality of the society.
 Working as a Developer would allow me to use my skills which I have been trained for and the talent I was born with and land them to the society. Indeed in my previous job as a Support Worker  I was able to exploit just partially the skills, I think I have.
-I'm a Full Stack Software Developer trained by Makers Academy. I have learned Ruby and JavaScript and how to build programs with those languages. I'm able to work well alone as well as being an excellent team player. Good logical approach to problem solving, happy to help others if they ask for it.
+I'm a Full Stack Software Developer who recently graduated from Makers Academy. I have learned Ruby and JavaScript and how to build programs with those languages. I'm able to work well alone as well as being an excellent team player. Good logical approach to problem solving, happy to help others if they ask for it.
 
 ## Projects
 
@@ -53,13 +53,13 @@ I'm a Full Stack Software Developer trained by Makers Academy. I have learned Ru
 **United Response** London (Jun 2015 to Nov 2017)    
 *Support Worker*
 
-- Checking residents’ needs and progress
-- Providing physical care, which could include bathing, dressing and feeding
-- Providing one-to-one counselling or group therapy sessions
-- Teaching daily living skills like budgeting, shopping and claiming benefits
-- Providing leisure and creative activities in a safe and supportive setting
-- Helping residents to deal with problems and become independent
-- Talking with residents' families and arranging family and home visits
+- Checked residents’ needs and progress
+- Provided physical care, which could include bathing, dressing and feeding
+- Provided one-to-one counselling or group therapy sessions
+- Taught daily living skills like budgeting, shopping and claiming benefits
+- Provided leisure and creative activities in a safe and supportive setting
+- Helped residents to deal with problems and become independent
+- Talked with residents' families and arranging family and home visits
 
 **ASARA Trasporti** Olbia, Italy (Apr 2013, Oct 2014)       
 *Professional Driver*
@@ -70,7 +70,7 @@ I'm a Full Stack Software Developer trained by Makers Academy. I have learned Ru
 
 **O.F.T.A.L** Macomer, Italy (Jan 2009, Oct 2012)       
 *Voluntary*
-- Transport of sick people to Lourdes (pilgrims)
+- Transported of sick people to Lourdes (pilgrims)
 
 ## Network
 <p align='center'>
