@@ -64,4 +64,6 @@ I am a full-stack software developer trained at Makers Academy. My two passions 
 ## Network
 <p align='center'>
   <a href="https://www.linkedin.com/in/giacomo-ninniri-3b8699150/">
-  <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+  <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+  <a href="https://medium.com/@giacomo.n27">
+  <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a></p></p>
