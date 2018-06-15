@@ -3,9 +3,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [ Network](#network)
 
-I think that technology brought a significant change to people’s lives and I want to give my contribute to carry on with this, improving and simplifying the quality of the society.
-Working as a Developer would allow me to use my skills which I have been trained for and the talent I was born with and land them to the society. Indeed in my previous job as a Support Worker  I was able to exploit just partially the skills, I think I have.
-I'm a Full Stack Software Developer who recently graduated from Makers Academy. I have learned Ruby and JavaScript and how to build programs with those languages. I'm able to work well alone as well as being an excellent team player. Good logical approach to problem solving, happy to help others if they ask for it.
+I am a full-stack software developer trained at Makers Academy. My two passions are helping others and technology. I have a diploma in Electronics and I am changing from a career as a support worker. I am familiar with Ruby and JavaScript and I’ve worked with projects teams at Makers Academy to create products like our self-driving car using Agile methodologies and XP values. My code is test-driven using SOLID principles and Object-Oriented design.  It has been fantastic to combine these interests at Makers and I’m excited to keep learning and helping to build powerful tools for a business.
 
 ## Projects
 
@@ -15,6 +13,7 @@ I'm a Full Stack Software Developer who recently graduated from Makers Academy. 
 | 2. Thermostat ([Github](https://github.com/Gia1987/JS-Thermostat.git))|This simple web app allows a user to set the temperature on a digital thermostat. The user is also able to access current weather data for any location. | Javascript, HTML, CSS, NodeJS, jQuery, APIs (Open Weather Map API) | Jasmine|
 | 3. Bank simulator ([Github](https://github.com/Gia1987/Bank-tech-test.git)) | This program is going to simulate a Bank with its routine's process. | JavaScript | Jasmine |
 | 4. AceBook ([Github](https://github.com/Gia1987/acebook-Underdogs.git)) ([Heroku](https://arcane-woodland-75224.herokuapp.com/)) | Team composed by 4 developers who have build a basis Social network web app that allows user to login/logout,  post messages and comments, Like and Unlike post. | Ruby, Rails, HTML, CSS, Heroku, PostgreSQL, Selenium-Webdriver | RSpec, Capybara, simplecov |
+| 5. SNAIL ([Github](https://github.com/Gia1987/snail-ML))| Final Project: A self-driving car that uses visual recognition.  | Python, Tensor-flow, Flask, RaspberryPi, HTML | Pytest |
 
 
 ## Skills
@@ -53,24 +52,14 @@ I'm a Full Stack Software Developer who recently graduated from Makers Academy. 
 **United Response** London (Jun 2015 to Nov 2017)    
 *Support Worker*
 
-- Checked residents’ needs and progress
-- Provided physical care, which could include bathing, dressing and feeding
 - Provided one-to-one counselling or group therapy sessions
 - Taught daily living skills like budgeting, shopping and claiming benefits
-- Provided leisure and creative activities in a safe and supportive setting
-- Helped residents to deal with problems and become independent
-- Talked with residents' families and arranging family and home visits
 
 **ASARA Trasporti** Olbia, Italy (Apr 2013, Oct 2014)       
 *Professional Driver*
-- Transported passengers & employees to and from terminals.
-- Loaded and unloaded luggage.
-- Provided customer service to ensure customers' safety and satisfaction.
-- Conducted daily bus inspection.
 
 **O.F.T.A.L** Macomer, Italy (Jan 2009, Oct 2012)       
 *Voluntary*
-- Transported of sick people to Lourdes (pilgrims)
 
 ## Network
 <p align='center'>
