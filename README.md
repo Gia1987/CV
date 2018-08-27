@@ -3,11 +3,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [ Network](#network)
 
-<<<<<<< HEAD
-I am an enthusiastic person trained at Makers Academy with a genuine passion for technology and about learning new things. Familiar with JavaScript and basic front-end stack, Ruby, Postgres and basic back-end stack, Agile methodology, TDD, SOLID principles and XP value. Git and version control. Enthusiastic self-starter able to work on different projects both independently and as part of a team. An energetic worker with the right attitude who wants to work in a high-growth company that offers opportunities for career advancement and personal development. 
-=======
-I am a full-stack software developer trained at Makers Academy. My two passions are helping others and technology. I have a diploma in Electronics and I am changing from a career as a support worker. I am familiar with Ruby and JavaScript and I’ve worked with projects teams at Makers Academy to create products like our self-driving car using Agile methodologies and XP values. My code is test-driven using SOLID principles and Object-Oriented design.  It has been fantastic to combine these interests at Makers and I’m excited to keep learning and helping to build powerful tools for a business.
->>>>>>> 16afacdfeceda31ba6ab041013735a1b0bf88b94
+I am an enthusiastic person trained at Makers Academy with a genuine passion for technology and about learning new things. Familiar with JavaScript and basic front-end stack, Ruby, Postgres and basic back-end stack, Agile methodology, TDD, SOLID principles and XP value. Git and version control. Enthusiastic self-starter able to work on different projects both independently and as part of a team. An energetic worker with the right attitude who wants to work in a high-growth company that offers opportunities for career advancement and personal development.
 
 ## Projects
 
@@ -26,19 +22,11 @@ I am a full-stack software developer trained at Makers Academy. My two passions 
   A good example of when I used my problem-solving skills in a specific situation could be during my Bootcamp in computer science at Makers Academy. I was working with my team to build a clone of Facebook in ruby on rails, and we were struggling with databases migration. No one knew how to overcome the issues faced and we got stuck on those for a while. I decided then to take the lead and started to perform a few researches online, along with consulting other colleagues outside my team and managed to find the answers we were looking for and go ahead successfully with the rest of the project. I shared with the rest of my team all the new findings I had got, along with the methodology that brought me there and my opinions on how to face a potential similar situation in the future.
 
 #### Fast Learner
-<<<<<<< HEAD
-  Again, during my intensive Bootcamp, I had very little time to learn a considerable amount of content, and I was able to do this successfully with great feedback from both my teachers and colleagues. For instance, I remember when I built Thermostat, a week challenge, in JavaScript in less than three days. In that situation, I realized how much I had learnt until that moment and how quickly I was able to do that.
-
-#### Working under Pressure
-  During my time working as a Support Worker, those were essential attitudes in order to provide excellent customer service to clients. I was able to keep calm despite very delicate situations when the clients were showing challenging behaviors.
-
-=======
   Several weeks at the coding bootcamp, Makers Academy tests this skill constantly whether it'd be a new framework or language. Especially I remember when I built Thermostat in JavaScript in less than three days, I realised how much I have learned until that moment.
 
 #### Working under Pressure
   Working as support worker often I had to deal with challenging or confrontational behaviour and stressful situations. In these situations, I was  able to stay calm and handle the pressure easily.
   At Makers I experienced, especially during team projects, how important is to keep calm and concentration despite the deadlines to produce a good quality of code.
->>>>>>> 16afacdfeceda31ba6ab041013735a1b0bf88b94
 ## Education
 
 #### Makers Academy (Jan 2018 to  May 2018)
