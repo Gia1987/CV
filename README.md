@@ -3,7 +3,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [ Network](#network)
 
-I m a Full Stack Software Developer in training at Makers Academy. I have learned Ruby and JavaScript and how to build programs with those languages. I m able to work well alone as well as being an excellent team player. Good logical approach to problem solving, happy to help others if they ask for it.
+I am an enthusiastic person trained at Makers Academy with a genuine passion for technology and about learning new things. Familiar with JavaScript and basic front-end stack, Ruby, Postgres and basic back-end stack, Agile methodology, TDD, SOLID principles and XP value. Git and version control. Enthusiastic self-starter able to work on different projects both independently and as part of a team. An energetic worker with the right attitude who wants to work in a high-growth company that offers opportunities for career advancement and personal development. 
 
 ## Projects
 
@@ -18,14 +18,14 @@ I m a Full Stack Software Developer in training at Makers Academy. I have learne
 ## Skills
 
 #### Problem Solving
-  While working on the Acebook project, my team experienced some version control issues relating to database migration. Thanks to research ability, I managed to solve these issues and also share the solution to all team members.      
+  A good example of when I used my problem-solving skills in a specific situation could be during my Bootcamp in computer science at Makers Academy. I was working with my team to build a clone of Facebook in ruby on rails, and we were struggling with databases migration. No one knew how to overcome the issues faced and we got stuck on those for a while. I decided then to take the lead and started to perform a few researches online, along with consulting other colleagues outside my team and managed to find the answers we were looking for and go ahead successfully with the rest of the project. I shared with the rest of my team all the new findings I had got, along with the methodology that brought me there and my opinions on how to face a potential similar situation in the future.
 
 #### Fast Learner
-  Several weeks at the coding bootcamp, Makers Academy tests this skill constantly whether it'd be a new framework or language. Expecially I remember when I built Thermostat in JavaScript in less than three days, I realised how much I have learned until that moment.
+  Again, during my intensive Bootcamp, I had very little time to learn a considerable amount of content, and I was able to do this successfully with great feedback from both my teachers and colleagues. For instance, I remember when I built Thermostat, a week challenge, in JavaScript in less than three days. In that situation, I realized how much I had learnt until that moment and how quickly I was able to do that.
 
 #### Working under Pressure
-  Working as support worker often I had to deal with challenging or confrontational behavior and stressful situations. In these situations, I was  able to stay calm and handle the pressure easily.
-  At Makers I experienced, expecially during team projects, how importat is to keep calm and concentration despite the deadlines to produce a good quality of code.
+  During my time working as a Support Worker, those were essential attitudes in order to provide excellent customer service to clients. I was able to keep calm despite very delicate situations when the clients were showing challenging behaviors.
+
 ## Education
 
 #### Makers Academy (Jan 2018 to  May 2018)
