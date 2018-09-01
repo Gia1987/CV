@@ -41,11 +41,9 @@ I am an enthusiastic person trained at Makers Academy with a genuine passion for
 - PostgreSQL, Heroku
 - HTML, CSS
 
-#### Pontificia Facolta Teologiaca Della Sardegna, Italy (Oct 2009 to  Oct 2012)
-- Theology/Theological Studies, Diploma
 
 #### I.P.S.I.A, Italy (Sept 2002 to Jun 2007)
-- High School, Electrical and Electronics Engineering, Diploma
+- 3 A-level, Electrical and Electronics Engineering, Diploma.
 
 ## Experience
 
