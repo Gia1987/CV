@@ -24,7 +24,7 @@ opportunities for career advancement and personal development.
 
 #### Software Developer, Semantic Integration, London (Sept 2018 — Present)
 
-Develop new software for different clients (Photobox, Pearson and TP/ICAP) and tailor the projects according to
+Develop new software for several clients and tailor the projects according to
 their requirements.
 
 - Writing up clean and maintainable code using React, Redux and Node.js.
@@ -33,7 +33,7 @@ their requirements.
 - Diagnosing and resolving problems and bugs to aid performances across the entire application.
 - Making, reviewing and merging pull requests.
 - Working in accordance with Agile, attending daily Scrums and working to two-weeks sprints.
-- Building API’s, Lambdas functions and deployment on AWS.
+- Building API’s, Lambda functions and deployment on AWS.
 
 #### Trainee Software Developer, Makers Academy, London (Jan 2018 to May 2018)
 
